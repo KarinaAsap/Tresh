@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INTAS-SDyakonov\\Desktop\\\u0423\u0427\u0401\u0411\u0410 C#\\\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442_\u043B\u0435\u043A\u0446\u0438\u0439_\u0412\u043B\u0413\u0423\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7247E837-5884-4B51-8977-BA2F55082114}|\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442_\u043B\u0435\u043A\u0446\u0438\u0439_\u0412\u043B\u0413\u0423.csproj|c:\\users\\intas-sdyakonov\\desktop\\\u0443\u0447\u0451\u0431\u0430 c#\\\u043A\u043E\u043D\u0441\u043F\u0435\u043A\u0442_\u043B\u0435\u043A\u0446\u0438\u0439_\u0432\u043B\u0433\u0443\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7247E837-5884-4B51-8977-BA2F55082114}|\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442_\u043B\u0435\u043A\u0446\u0438\u0439_\u0412\u043B\u0413\u0423.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\INTAS-SDyakonov\\Desktop\\\u0423\u0427\u0401\u0411\u0410 C#\\\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442_\u043B\u0435\u043A\u0446\u0438\u0439_\u0412\u043B\u0413\u0423\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\INTAS-SDyakonov\\Desktop\\\u0423\u0427\u0401\u0411\u0410 C#\\\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442_\u043B\u0435\u043A\u0446\u0438\u0439_\u0412\u043B\u0413\u0423\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAowNQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:36:02.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
