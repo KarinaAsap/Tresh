@@ -1,0 +1,15 @@
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\LeetCode-самый длинный префикс.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\LeetCode-самый длинный префикс.AssemblyInfoInputs.cache
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\LeetCode-самый длинный префикс.AssemblyInfo.cs
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\LeetCode-самый длинный префикс.csproj.CoreCompileInputs.cache
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\LeetCode-самый длинный префикс.sourcelink.json
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\bin\Debug\net8.0\LeetCode-самый длинный префикс.exe
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\bin\Debug\net8.0\LeetCode-самый длинный префикс.deps.json
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\bin\Debug\net8.0\LeetCode-самый длинный префикс.runtimeconfig.json
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\bin\Debug\net8.0\LeetCode-самый длинный префикс.dll
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\bin\Debug\net8.0\LeetCode-самый длинный префикс.pdb
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\LeetCode-самый длинный префикс.dll
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\refint\LeetCode-самый длинный префикс.dll
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\LeetCode-самый длинный префикс.pdb
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\LeetCode-самый длинный префикс.genruntimeconfig.cache
+C:\Users\INTAS-SDyakonov\Desktop\УЧЁБА C#\Сайтики\LeetCode-самый длинный префикс\obj\Debug\net8.0\ref\LeetCode-самый длинный префикс.dll
