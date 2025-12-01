@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars-сложить все позитивные числа массива", "CodeWars-сложить все позитивные числа массива.csproj", "{03385598-83D8-42F2-B6A3-231EFB110419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03385598-83D8-42F2-B6A3-231EFB110419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03385598-83D8-42F2-B6A3-231EFB110419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03385598-83D8-42F2-B6A3-231EFB110419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03385598-83D8-42F2-B6A3-231EFB110419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA0FE06-1D8D-4ECD-9FE8-8C5D20B879B0}
+	EndGlobalSection
+EndGlobal
